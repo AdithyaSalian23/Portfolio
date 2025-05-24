@@ -40,6 +40,9 @@ Then open index.html in your browser.
 If you'd like to connect, you can reach me via the contact form on the website or LinkedIn.
 
 
+![Portfolio Screenshot](Screenshot%20(732).png)
+
+
 
 
 
