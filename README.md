@@ -60,4 +60,4 @@ Got feedback or want to connect?
 
 📮 Use the contact form on the website
 
-🔗 Or message me on LinkedIn
+🔗 Or message me on [LinkedIn](https://www.linkedin.com/in/adithyasalian/)
