@@ -51,3 +51,13 @@ cd Portfolio
 ---
 
 ## 📸 Demo Preview
+![Portfolio Screenshot](Screenshot%20(732).png)
+
+---
+
+## 📧 Contact
+Got feedback or want to connect?
+
+📮 Use the contact form on the website
+
+🔗 Or message me on LinkedIn
